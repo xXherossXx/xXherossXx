@@ -1,6 +1,7 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
+<div align="start">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtNHk1eGZwYWdlcW5qNjFpazVkaHltNTdrOXN1YjN3djYxbDBncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uWL3Nt5cgwsCecmh24/source.gif"  />
+</div>
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
