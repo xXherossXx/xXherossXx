@@ -35,11 +35,6 @@ Hi 👋, I'm Renato! A passionate programming student.
 ## Portfolio:
 <!-- - []()  -->
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/xXherossXx/xXherossXx/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
