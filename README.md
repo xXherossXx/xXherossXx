@@ -5,12 +5,16 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Renato! A passionate programming student.
+Hi 👋, I'm Renato! A passionate programming student.
 
--🌱 I’m currently studying Databases, Java, and Python.
--👨‍💻 I'm a back-end developer.
--📚 I'm 17 years old and eager to learn more about technology.
--🔭 I am looking for my first job opportunity.
+🌱 I’m currently studying Databases, Java, and Python.
+
+👨‍💻 I'm a back-end developer.
+
+📚 I'm 17 years old and eager to learn more about technology.
+
+🔭 I am looking for my first job opportunity.
+
 </p>
 
 <!-- Dropdown -->
