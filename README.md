@@ -35,11 +35,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/xXherossXx/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/xXherossXx/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/xXherossXx/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/xXherossXx/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/xXherossXx/Cartorio)
+- []()
 
 <!-- GIF -->
 <p align="left">
