@@ -23,7 +23,6 @@ Hi 👋, I'm Renato! A passionate programming student.
 
   - 💬 Student.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- GithubStats -->
