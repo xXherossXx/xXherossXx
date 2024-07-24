@@ -5,11 +5,12 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Renato! A passionate programming student.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+🌱 I’m currently studying Databases, Java, and Python.
+👨‍💻 I'm a back-end developer.
+📚 I'm 17 years old and eager to learn more about technology.
+🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
