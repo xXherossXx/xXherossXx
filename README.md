@@ -33,7 +33,7 @@ Hi 👋, I'm Renato! A passionate programming student.
 
 <!-- Portfolio -->
 ## Portfolio:
-- []()
+<!-- - []()  -->
 
 <!-- GIF -->
 <p align="left">
